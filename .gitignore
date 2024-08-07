@@ -1,0 +1,19 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Working folders
+behavior-learning/figures/
+behavior-learning/results/
+synaptic-models/figures/
+
+# Mac files
+*.DS_Store
+
+# Large objects
+behavior-learning/files/
+synaptic-models/files/
