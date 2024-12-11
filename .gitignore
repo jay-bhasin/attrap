@@ -7,13 +7,15 @@ __pycache__/
 .ipynb_checkpoints
 
 # Working folders
-behavior-learning/figures/
-behavior-learning/results/
+behavior-learning/
 synaptic-models/figures/
+circuit-models/files/
+circuit-models/dev/
+circuit-models/figures/
+old/
 
 # Mac files
 *.DS_Store
 
 # Large objects
-behavior-learning/files/
 synaptic-models/files/
